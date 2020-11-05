@@ -39,7 +39,6 @@ Your user should be able to:
 
 2. Complete this assignment using JavaScript
 
-3. Include any code that affects the DOM inside a **window onload**.
 
 Remember the general flow of what is happening. The user makes an action, you run some code in order to process this action, the results of the action are rendered to the page, and then you wait until another action takes place.
 
